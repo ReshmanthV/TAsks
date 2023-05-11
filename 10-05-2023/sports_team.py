@@ -3,7 +3,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 
-
 class Player(BaseModel):
     """This class is player details class"""
     player_name: str
