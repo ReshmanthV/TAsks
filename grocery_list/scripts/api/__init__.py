@@ -6,5 +6,3 @@ class EndPoints:
     del_prod = "/del_prod/{prod_id}"
     total_amount = "/total_amount"
     
-    
-    
